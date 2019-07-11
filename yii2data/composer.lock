@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "28073df55f1ca4d59e75c2de9b2f9ba7",
+    "content-hash": "c77530481dfb6db390189215a47667ee",
     "packages": [
         {
             "name": "2amigos/yii2-chartjs-widget",
@@ -601,12 +601,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-generator.git",
-                "reference": "77499d4fe0f3dce02d5c4af435a0bc6c63dbe17d"
+                "reference": "7807d72d6c7c86b792a13f59a28ce189dbf30dfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-generator/zipball/77499d4fe0f3dce02d5c4af435a0bc6c63dbe17d",
-                "reference": "77499d4fe0f3dce02d5c4af435a0bc6c63dbe17d",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-generator/zipball/7807d72d6c7c86b792a13f59a28ce189dbf30dfe",
+                "reference": "7807d72d6c7c86b792a13f59a28ce189dbf30dfe",
                 "shasum": ""
             },
             "type": "yii2-extension",
@@ -630,7 +630,7 @@
                 }
             ],
             "description": "ArtSoft Gii Generators",
-            "time": "2019-03-22T10:12:06+00:00"
+            "time": "2019-07-10T09:21:55+00:00"
         },
         {
             "name": "artsoft/yii2-art-media",

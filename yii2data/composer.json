@@ -140,7 +140,31 @@
         },        
          {
             "type": "path",
+            "url": "../artsoft/yii2-art-carousel"
+        },        
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-parallax"
+        },        
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-feedback"
+        },        
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-slides"
+        },        
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-dbmanager"
+        },        
+         {
+            "type": "path",
             "url": "../artsoft/yii2-art-block"
+        },        
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-portfolio"
         }        
   ]
   }
