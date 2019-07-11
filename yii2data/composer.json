@@ -76,32 +76,72 @@
   "repositories": [
         {
             "type": "path",
-            "url": "../artsoft/yii2-art-portfolio"
+            "url": "../artsoft/yii2-art-seo"
         },
         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-settings"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-translation"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-menu"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-comments"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-comment"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-auth"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-user"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-post"
+        },        
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-page"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-media"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-core"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/yii2-art-generator"
+        },
+        {
+            "type": "path",
+            "url": "../artsoft/art-i18n"
+        },
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-mediamanager"                
+        },
+         {
+            "type": "path",
+            "url": "../artsoft/yii2-art-eav"
+        },        
+         {
             "type": "path",
             "url": "../artsoft/yii2-art-block"
-        },
-        {
-            "type": "path",
-            "url": "../artsoft/yii2-art-carousel"
-        },
-        {
-            "type": "path",
-            "url": "../artsoft/yii2-art-parallax"
-        },
-        {
-            "type": "path",
-            "url": "../artsoft/yii2-art-feedback"
-        },
-        {
-            "type": "path",
-            "url": "../artsoft/yii2-art-slides"
-        },
-        {
-            "type": "path",
-            "url": "../artsoft/yii2-art-dbmanager"
-        }
+        }        
   ]
   }
 }

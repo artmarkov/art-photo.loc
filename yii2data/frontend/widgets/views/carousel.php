@@ -31,7 +31,7 @@ use frontend\widgets\owlcarousel\OwlCarouselWidget;
             
             foreach ($content_items as $key => $item) :   
                 $content .= Html::beginTag('div');
-                $content .= Html::img(Media::findById($item['id'])->getThumbs()[$options['size']], ['class' => 'img-responsive', 'alt' => '']); 
+                $content .= Html::img(Media::findById($item['media_id'])->getThumbs()[$options['size']], ['class' => 'img-responsive', 'alt' => '']); 
                 $content .= Html::endTag('div'); 
             endforeach;
         

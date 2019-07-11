@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1900bab4d7a8131255b1e7be251ae8aa",
+    "content-hash": "28073df55f1ca4d59e75c2de9b2f9ba7",
     "packages": [
         {
             "name": "2amigos/yii2-chartjs-widget",
@@ -355,12 +355,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-block.git",
-                "reference": "f0279d216fa3e8bbb8e3093ef755fbd14b7e001d"
+                "reference": "83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-block/zipball/f0279d216fa3e8bbb8e3093ef755fbd14b7e001d",
-                "reference": "f0279d216fa3e8bbb8e3093ef755fbd14b7e001d",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-block/zipball/83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d",
+                "reference": "83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d",
                 "shasum": ""
             },
             "require": {
@@ -387,7 +387,7 @@
                 }
             ],
             "description": "HTML Block Module For Art CMS",
-            "time": "2019-05-30T14:26:18+00:00"
+            "time": "2019-07-08T15:18:47+00:00"
         },
         {
             "name": "artsoft/yii2-art-carousel",
@@ -473,12 +473,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-core.git",
-                "reference": "a83863b32fad1f81cbd3f61602007f32fd3bdf0b"
+                "reference": "508d75434fed90bb6b74baf11584f9be27407fd4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-core/zipball/a83863b32fad1f81cbd3f61602007f32fd3bdf0b",
-                "reference": "a83863b32fad1f81cbd3f61602007f32fd3bdf0b",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-core/zipball/508d75434fed90bb6b74baf11584f9be27407fd4",
+                "reference": "508d75434fed90bb6b74baf11584f9be27407fd4",
                 "shasum": ""
             },
             "require": {
@@ -495,6 +495,7 @@
                 "nex/yii2-chosen": "*",
                 "omgdef/yii2-multilingual-behavior": "~2.0",
                 "rmrevin/yii2-fontawesome": "~2.12",
+                "trntv/yii2-aceeditor": "^2.0.0",
                 "yii2mod/yii2-bootstrap-notify": "*",
                 "yiisoft/yii2": "~2.0",
                 "yiisoft/yii2-jui": "~2.0"
@@ -520,7 +521,7 @@
                 }
             ],
             "description": "Core Module For Art CMS",
-            "time": "2019-04-30T19:10:58+00:00"
+            "time": "2019-07-03T20:45:50+00:00"
         },
         {
             "name": "artsoft/yii2-art-dbmanager",
@@ -528,12 +529,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-dbmanager.git",
-                "reference": "13e4042f8ac3762c9d6ab0218e44465891943281"
+                "reference": "2522bddf39f64b3cdfe21a775c810cc0dfeba6ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-dbmanager/zipball/13e4042f8ac3762c9d6ab0218e44465891943281",
-                "reference": "13e4042f8ac3762c9d6ab0218e44465891943281",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-dbmanager/zipball/2522bddf39f64b3cdfe21a775c810cc0dfeba6ce",
+                "reference": "2522bddf39f64b3cdfe21a775c810cc0dfeba6ce",
                 "shasum": ""
             },
             "require": {
@@ -556,7 +557,7 @@
                 }
             ],
             "description": "Dbmanager Module For Art CMS",
-            "time": "2019-06-11T10:37:41+00:00"
+            "time": "2019-06-14T14:40:18+00:00"
         },
         {
             "name": "artsoft/yii2-art-feedback",
@@ -637,12 +638,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-media.git",
-                "reference": "a194e2328f73fc7ecbd949507435370af1c68235"
+                "reference": "aedc0107c0354169897094dbd0393833720c141c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-media/zipball/a194e2328f73fc7ecbd949507435370af1c68235",
-                "reference": "a194e2328f73fc7ecbd949507435370af1c68235",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-media/zipball/aedc0107c0354169897094dbd0393833720c141c",
+                "reference": "aedc0107c0354169897094dbd0393833720c141c",
                 "shasum": ""
             },
             "require": {
@@ -672,7 +673,7 @@
                 }
             ],
             "description": "Media Module For Art CMS",
-            "time": "2019-05-21T14:27:58+00:00"
+            "time": "2019-06-28T11:27:47+00:00"
         },
         {
             "name": "artsoft/yii2-art-mediamanager",
@@ -1227,16 +1228,16 @@
         },
         {
             "name": "bizley/migration",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bizley/yii2-migration.git",
-                "reference": "881d9a790a137a0e1aa7b0bb40c71ebc9bdab83f"
+                "reference": "192d7606632a321682785f8ee6b82dcbb01af398"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bizley/yii2-migration/zipball/881d9a790a137a0e1aa7b0bb40c71ebc9bdab83f",
-                "reference": "881d9a790a137a0e1aa7b0bb40c71ebc9bdab83f",
+                "url": "https://api.github.com/repos/bizley/yii2-migration/zipball/192d7606632a321682785f8ee6b82dcbb01af398",
+                "reference": "192d7606632a321682785f8ee6b82dcbb01af398",
                 "shasum": ""
             },
             "require": {
@@ -1272,7 +1273,33 @@
                 "migration",
                 "yii2"
             ],
-            "time": "2019-04-25T20:56:11+00:00"
+            "time": "2019-07-07T09:54:41+00:00"
+        },
+        {
+            "name": "bower-asset/ace-builds",
+            "version": "v1.4.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ajaxorg/ace-builds.git",
+                "reference": "7489e42c81725cd58d969478ddf9b2e8fd6e8aef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ajaxorg/ace-builds/zipball/7489e42c81725cd58d969478ddf9b2e8fd6e8aef",
+                "reference": "7489e42c81725cd58d969478ddf9b2e8fd6e8aef",
+                "shasum": ""
+            },
+            "type": "bower-asset-library",
+            "extra": {
+                "bower-asset-ignore": [
+                    "demo"
+                ]
+            },
+            "license": [
+                "BSD"
+            ],
+            "description": "Ace (Ajax.org Cloud9 Editor)",
+            "time": "2019-06-17T19:24:28+00:00"
         },
         {
             "name": "bower-asset/animate.css",
@@ -1319,16 +1346,16 @@
         },
         {
             "name": "bower-asset/blueimp-file-upload",
-            "version": "v9.31.0",
+            "version": "v9.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/blueimp/jQuery-File-Upload.git",
-                "reference": "b096b1a5544299b59f2e05cf764a123ce3e32dd3"
+                "reference": "23f5c92cad0d9cc8dd37b969db27e3c92a1d0231"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/b096b1a5544299b59f2e05cf764a123ce3e32dd3",
-                "reference": "b096b1a5544299b59f2e05cf764a123ce3e32dd3",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/23f5c92cad0d9cc8dd37b969db27e3c92a1d0231",
+                "reference": "23f5c92cad0d9cc8dd37b969db27e3c92a1d0231",
                 "shasum": ""
             },
             "require": {
@@ -1379,7 +1406,7 @@
                 "upload",
                 "widget"
             ],
-            "time": "2019-05-23T15:19:31+00:00"
+            "time": "2019-06-23T13:14:38+00:00"
         },
         {
             "name": "bower-asset/blueimp-gallery",
@@ -2341,16 +2368,16 @@
         },
         {
             "name": "imagine/imagine",
-            "version": "1.2.1",
+            "version": "1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/avalanche123/Imagine.git",
-                "reference": "69ce33008b73a64f5ea25449d1b69146437144fd"
+                "reference": "eec39b2092bc8008a92b8d63824476413dbe7511"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avalanche123/Imagine/zipball/69ce33008b73a64f5ea25449d1b69146437144fd",
-                "reference": "69ce33008b73a64f5ea25449d1b69146437144fd",
+                "url": "https://api.github.com/repos/avalanche123/Imagine/zipball/eec39b2092bc8008a92b8d63824476413dbe7511",
+                "reference": "eec39b2092bc8008a92b8d63824476413dbe7511",
                 "shasum": ""
             },
             "require": {
@@ -2395,7 +2422,7 @@
                 "image manipulation",
                 "image processing"
             ],
-            "time": "2019-06-03T15:06:06+00:00"
+            "time": "2019-07-09T06:55:48+00:00"
         },
         {
             "name": "jisoft/yii2-sypexgeo",
@@ -3266,6 +3293,48 @@
             "time": "2018-08-03T12:00:41+00:00"
         },
         {
+            "name": "trntv/yii2-aceeditor",
+            "version": "2.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/trntv/yii2-aceeditor.git",
+                "reference": "807ce92d46375308b9ca55d4ceeda12ba632dfae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/trntv/yii2-aceeditor/zipball/807ce92d46375308b9ca55d4ceeda12ba632dfae",
+                "reference": "807ce92d46375308b9ca55d4ceeda12ba632dfae",
+                "shasum": ""
+            },
+            "require": {
+                "bower-asset/ace-builds": "^1.3.1",
+                "yiisoft/yii2": "^2.0.0"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "trntv\\aceeditor\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Eugene Terentev",
+                    "email": "eugene@terentev.net"
+                }
+            ],
+            "description": "Yii2 ajax.org Ace Editor widget",
+            "keywords": [
+                "aceeditor",
+                "code editor",
+                "yii"
+            ],
+            "time": "2018-04-04T06:42:50+00:00"
+        },
+        {
             "name": "yii2mod/yii2-bootstrap-notify",
             "version": "1.2",
             "source": {
@@ -3361,16 +3430,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.20",
+            "version": "2.0.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "bd05e0e0ac353cb239997da78f459d0960a1fe9f"
+                "reference": "417299927ed14adcd51c69a9d75311c5fc33d227"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/bd05e0e0ac353cb239997da78f459d0960a1fe9f",
-                "reference": "bd05e0e0ac353cb239997da78f459d0960a1fe9f",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/417299927ed14adcd51c69a9d75311c5fc33d227",
+                "reference": "417299927ed14adcd51c69a9d75311c5fc33d227",
                 "shasum": ""
             },
             "require": {
@@ -3457,7 +3526,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2019-06-04T19:10:59+00:00"
+            "time": "2019-07-02T20:28:40+00:00"
         },
         {
             "name": "yiisoft/yii2-authclient",

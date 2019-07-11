@@ -72,60 +72,9 @@ echo SliderRevolution::widget([
 
     <!-- PARALLAX -->
      <?= \frontend\widgets\ParallaxWidget::widget(['parallax' => $parallax]); ?>
-    <!-- PARALLAX -->
-   
+    <!-- PARALLAX -->   
  
     <!-- SERVICES -->
-    <section class="margin-top50">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-md-12">
-                    <?= Block::getHtml('format-raboty-fotostudii'); ?>
-                    <hr />
-
-                    <h2><strong>Варианты</strong> работы студии:</h2>
-
-                    <!-- SERVICE 1 -->
-                    <div class="row margin-top30">
-
-                        <!-- SERVICE 1 -->
-                        <div class="col-md-2 text-center margin-bottom20">
-                            <i class="nomargin featured-icon fa fa-heart-o"></i>
-                        </div>
-
-                        <div class="col-md-10">
-                             <?= Block::getHtml('individualnaya-semka'); ?>
-                             <?= Html::a('<i class="fa fa-sign-out"></i><span class="uppercase">Записаться</span>', ["/site/contact"], ['class' => 'btn btn-xs pull-right']) ?>
-
-                        </div>
-
-                    </div>
-
-                    <div class="divider half-margins"><!-- divider -->
-                        <i class="fa fa-plus-circle"></i>
-                    </div>
-
-                    <!-- SERVICE 2 -->
-                    <div class="row margin-top30">
-
-                        <div class="col-md-2 text-center margin-bottom20">
-                            <i class="nomargin featured-icon fa fa-smile-o"></i>
-                        </div>
-
-                        <div class="col-md-10">
-                            
-                             <?= Block::getHtml('gruppovaya-semka'); ?>
-                             <?= Html::a('<i class="fa fa-sign-out"></i><span class="uppercase">Записаться</span>', ["/site/contact"], ['class' => 'btn btn-xs pull-right']) ?>
-
-                        </div>
-
-                    </div>
-                </div>  
-            </div>  
-        </div>
-    </section>
-    <hr />
     <section class="margin-top50">
         <div class="container">
             <?= Block::getHtml('prays'); ?>
