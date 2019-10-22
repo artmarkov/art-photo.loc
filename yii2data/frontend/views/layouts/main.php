@@ -101,7 +101,7 @@ $assetBundle = AppAsset::register($this);
                     <i class="fa fa-bars"></i>
                 </button>
                 <?php  $logo = $assetBundle->baseUrl . '/images/logo.png'; ?>
-                <a class="logo" href="<?= \yii\helpers\Url::home(); ?>"><?= Html::img($logo, ['alt' => Yii::$app->settings->get('general.title', 'ArtSoft Site', Yii::$app->language)]) ?>
+                <a class="logo" href="<?= \yii\helpers\Url::home(); ?>"><?= Html::img($logo, ['style' => 'height: 50px;', 'alt' => Yii::$app->settings->get('general.title', 'ArtSoft Site', Yii::$app->language)]) ?>
                     <h7><?= Yii::$app->settings->get('general.title', 'ArtSoft Site', Yii::$app->language);?></h7>
                 </a>
 

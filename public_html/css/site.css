@@ -188,3 +188,14 @@ a.social.fa-vk:hover {
     background:#4B89C9 !important; 
     color:#fff !important; 
 }
+/* logo */
+@font-face {
+    font-family: Olietta script Lyrica BoldItalic; 
+    src: url('../fonts/Olietta-script.ttf');
+   }
+.logo {
+    font-family: 'Olietta script Lyrica BoldItalic', arial;
+   
+        font-size: 56px !important;
+        /*text-shadow: 4px 4px 4px #aaa;*/
+}

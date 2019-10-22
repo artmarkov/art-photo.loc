@@ -355,12 +355,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-block.git",
-                "reference": "83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d"
+                "reference": "7a6cc1c062c60f0bdb9c186446742332c9dd80af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-block/zipball/83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d",
-                "reference": "83bf5753ad0b77c12ad1d53c6bbdf1ee27d70b8d",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-block/zipball/7a6cc1c062c60f0bdb9c186446742332c9dd80af",
+                "reference": "7a6cc1c062c60f0bdb9c186446742332c9dd80af",
                 "shasum": ""
             },
             "require": {
@@ -387,7 +387,7 @@
                 }
             ],
             "description": "HTML Block Module For Art CMS",
-            "time": "2019-07-08T15:18:47+00:00"
+            "time": "2019-07-12T11:36:26+00:00"
         },
         {
             "name": "artsoft/yii2-art-carousel",
@@ -395,17 +395,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-carousel.git",
-                "reference": "b00eccb7ae9c0a77a7bf397026bc95e0abc1141a"
+                "reference": "f7715f6810f8c60b06bdff47dbcfcde48325b9dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-carousel/zipball/b00eccb7ae9c0a77a7bf397026bc95e0abc1141a",
-                "reference": "b00eccb7ae9c0a77a7bf397026bc95e0abc1141a",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-carousel/zipball/f7715f6810f8c60b06bdff47dbcfcde48325b9dc",
+                "reference": "f7715f6810f8c60b06bdff47dbcfcde48325b9dc",
                 "shasum": ""
             },
             "require": {
                 "artsoft/yii2-art-core": "dev-master",
-                "artsoft/yii2-art-mediamanager": "dev-master"
+                "artsoft/yii2-art-mediamanager": "dev-master",
+                "kartik-v/yii2-widget-colorinput": "*",
+                "kartik-v/yii2-widget-switchinput": "dev-master"
             },
             "type": "library",
             "autoload": {
@@ -424,7 +426,7 @@
                 }
             ],
             "description": "Carousel Module For Art CMS",
-            "time": "2019-06-14T12:10:23+00:00"
+            "time": "2019-07-12T11:36:49+00:00"
         },
         {
             "name": "artsoft/yii2-art-comment",
@@ -432,12 +434,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-comment.git",
-                "reference": "9cfd4886be530ba9e3218dafdb83d43b0e271f54"
+                "reference": "4814fb47b33e1973b69d02fdfa86e15ce5af0976"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-comment/zipball/9cfd4886be530ba9e3218dafdb83d43b0e271f54",
-                "reference": "9cfd4886be530ba9e3218dafdb83d43b0e271f54",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-comment/zipball/4814fb47b33e1973b69d02fdfa86e15ce5af0976",
+                "reference": "4814fb47b33e1973b69d02fdfa86e15ce5af0976",
                 "shasum": ""
             },
             "require": {
@@ -465,7 +467,7 @@
                 }
             ],
             "description": "Comments Module For Art CMS",
-            "time": "2019-04-05T14:54:52+00:00"
+            "time": "2019-07-12T11:37:30+00:00"
         },
         {
             "name": "artsoft/yii2-art-core",
@@ -473,12 +475,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-core.git",
-                "reference": "508d75434fed90bb6b74baf11584f9be27407fd4"
+                "reference": "a95407076cd8cac72d17b0c0d9f4f61f0fca5ac0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-core/zipball/508d75434fed90bb6b74baf11584f9be27407fd4",
-                "reference": "508d75434fed90bb6b74baf11584f9be27407fd4",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-core/zipball/a95407076cd8cac72d17b0c0d9f4f61f0fca5ac0",
+                "reference": "a95407076cd8cac72d17b0c0d9f4f61f0fca5ac0",
                 "shasum": ""
             },
             "require": {
@@ -521,7 +523,7 @@
                 }
             ],
             "description": "Core Module For Art CMS",
-            "time": "2019-07-03T20:45:50+00:00"
+            "time": "2019-07-12T12:02:47+00:00"
         },
         {
             "name": "artsoft/yii2-art-dbmanager",
@@ -529,12 +531,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-dbmanager.git",
-                "reference": "2522bddf39f64b3cdfe21a775c810cc0dfeba6ce"
+                "reference": "f568c9242d3610becedfd412426a3d30d5c81e95"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-dbmanager/zipball/2522bddf39f64b3cdfe21a775c810cc0dfeba6ce",
-                "reference": "2522bddf39f64b3cdfe21a775c810cc0dfeba6ce",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-dbmanager/zipball/f568c9242d3610becedfd412426a3d30d5c81e95",
+                "reference": "f568c9242d3610becedfd412426a3d30d5c81e95",
                 "shasum": ""
             },
             "require": {
@@ -557,7 +559,7 @@
                 }
             ],
             "description": "Dbmanager Module For Art CMS",
-            "time": "2019-06-14T14:40:18+00:00"
+            "time": "2019-07-12T11:38:01+00:00"
         },
         {
             "name": "artsoft/yii2-art-feedback",
@@ -565,12 +567,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-feedback.git",
-                "reference": "4c9a90d09baf309e0aa574c490ebe0ae5d008a14"
+                "reference": "5ae6e3b6e711485ee404c705cfbc74b4fd46cc79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-feedback/zipball/4c9a90d09baf309e0aa574c490ebe0ae5d008a14",
-                "reference": "4c9a90d09baf309e0aa574c490ebe0ae5d008a14",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-feedback/zipball/5ae6e3b6e711485ee404c705cfbc74b4fd46cc79",
+                "reference": "5ae6e3b6e711485ee404c705cfbc74b4fd46cc79",
                 "shasum": ""
             },
             "require": {
@@ -593,7 +595,7 @@
                 }
             ],
             "description": "Feedback Module For Art CMS",
-            "time": "2019-06-14T12:07:32+00:00"
+            "time": "2019-07-12T11:38:19+00:00"
         },
         {
             "name": "artsoft/yii2-art-generator",
@@ -601,12 +603,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-generator.git",
-                "reference": "7807d72d6c7c86b792a13f59a28ce189dbf30dfe"
+                "reference": "20803b320f29b832223ad1d5f0ff5b0fc9508b50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-generator/zipball/7807d72d6c7c86b792a13f59a28ce189dbf30dfe",
-                "reference": "7807d72d6c7c86b792a13f59a28ce189dbf30dfe",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-generator/zipball/20803b320f29b832223ad1d5f0ff5b0fc9508b50",
+                "reference": "20803b320f29b832223ad1d5f0ff5b0fc9508b50",
                 "shasum": ""
             },
             "type": "yii2-extension",
@@ -630,7 +632,7 @@
                 }
             ],
             "description": "ArtSoft Gii Generators",
-            "time": "2019-07-10T09:21:55+00:00"
+            "time": "2019-07-12T11:38:44+00:00"
         },
         {
             "name": "artsoft/yii2-art-media",
@@ -638,12 +640,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-media.git",
-                "reference": "aedc0107c0354169897094dbd0393833720c141c"
+                "reference": "b9ccfb1f8d52b1ae886aedde9c93969e7e7d256e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-media/zipball/aedc0107c0354169897094dbd0393833720c141c",
-                "reference": "aedc0107c0354169897094dbd0393833720c141c",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-media/zipball/b9ccfb1f8d52b1ae886aedde9c93969e7e7d256e",
+                "reference": "b9ccfb1f8d52b1ae886aedde9c93969e7e7d256e",
                 "shasum": ""
             },
             "require": {
@@ -673,7 +675,7 @@
                 }
             ],
             "description": "Media Module For Art CMS",
-            "time": "2019-06-28T11:27:47+00:00"
+            "time": "2019-07-12T11:39:05+00:00"
         },
         {
             "name": "artsoft/yii2-art-mediamanager",
@@ -719,12 +721,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-menu.git",
-                "reference": "1301c8b1a3860d9106ab2b290e2d1bc6d4a5f3c9"
+                "reference": "42306554165706380941ea1c9bbab3bb06f75cf9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-menu/zipball/1301c8b1a3860d9106ab2b290e2d1bc6d4a5f3c9",
-                "reference": "1301c8b1a3860d9106ab2b290e2d1bc6d4a5f3c9",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-menu/zipball/42306554165706380941ea1c9bbab3bb06f75cf9",
+                "reference": "42306554165706380941ea1c9bbab3bb06f75cf9",
                 "shasum": ""
             },
             "require": {
@@ -751,7 +753,7 @@
                 }
             ],
             "description": "Menu Module For Art CMS",
-            "time": "2019-03-22T10:15:21+00:00"
+            "time": "2019-07-12T11:39:23+00:00"
         },
         {
             "name": "artsoft/yii2-art-page",
@@ -759,12 +761,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-page.git",
-                "reference": "4d3ac247b43a75e7c26f9197a1e4a38ae40e7a55"
+                "reference": "5d2584f5fbc2fc363e7eaaf2644d633974565e99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-page/zipball/4d3ac247b43a75e7c26f9197a1e4a38ae40e7a55",
-                "reference": "4d3ac247b43a75e7c26f9197a1e4a38ae40e7a55",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-page/zipball/5d2584f5fbc2fc363e7eaaf2644d633974565e99",
+                "reference": "5d2584f5fbc2fc363e7eaaf2644d633974565e99",
                 "shasum": ""
             },
             "require": {
@@ -792,7 +794,7 @@
                 }
             ],
             "description": "Page Module For Art CMS",
-            "time": "2019-04-19T07:05:40+00:00"
+            "time": "2019-07-12T11:39:34+00:00"
         },
         {
             "name": "artsoft/yii2-art-parallax",
@@ -800,12 +802,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-parallax.git",
-                "reference": "c8aace15b071d98f324c1690a4d36ad30a1c99aa"
+                "reference": "92a081005e969a295de1099a34c5078078b4ee2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-parallax/zipball/c8aace15b071d98f324c1690a4d36ad30a1c99aa",
-                "reference": "c8aace15b071d98f324c1690a4d36ad30a1c99aa",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-parallax/zipball/92a081005e969a295de1099a34c5078078b4ee2b",
+                "reference": "92a081005e969a295de1099a34c5078078b4ee2b",
                 "shasum": ""
             },
             "require": {
@@ -829,7 +831,7 @@
                 }
             ],
             "description": "parallax Module For Art CMS",
-            "time": "2019-06-14T12:05:30+00:00"
+            "time": "2019-07-12T11:59:13+00:00"
         },
         {
             "name": "artsoft/yii2-art-portfolio",
@@ -837,12 +839,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-portfolio.git",
-                "reference": "9897e9f22538c2eccca9a871f0c5a732950299c9"
+                "reference": "9c411e1c553dfea1b409c4249b41971d3bfba101"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-portfolio/zipball/9897e9f22538c2eccca9a871f0c5a732950299c9",
-                "reference": "9897e9f22538c2eccca9a871f0c5a732950299c9",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-portfolio/zipball/9c411e1c553dfea1b409c4249b41971d3bfba101",
+                "reference": "9c411e1c553dfea1b409c4249b41971d3bfba101",
                 "shasum": ""
             },
             "require": {
@@ -866,7 +868,7 @@
                 }
             ],
             "description": "Portfolio Module For Art CMS",
-            "time": "2019-06-14T12:03:33+00:00"
+            "time": "2019-07-12T11:59:23+00:00"
         },
         {
             "name": "artsoft/yii2-art-post",
@@ -874,12 +876,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-post.git",
-                "reference": "bf2290c12c556a30783ceea942c710e94f1ff1fb"
+                "reference": "9b33d6b381451f727a099a6ac2c2d4e81e77bb0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-post/zipball/bf2290c12c556a30783ceea942c710e94f1ff1fb",
-                "reference": "bf2290c12c556a30783ceea942c710e94f1ff1fb",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-post/zipball/9b33d6b381451f727a099a6ac2c2d4e81e77bb0e",
+                "reference": "9b33d6b381451f727a099a6ac2c2d4e81e77bb0e",
                 "shasum": ""
             },
             "require": {
@@ -907,7 +909,7 @@
                 }
             ],
             "description": "Post Module For Art CMS",
-            "time": "2019-05-21T14:29:26+00:00"
+            "time": "2019-07-12T11:40:27+00:00"
         },
         {
             "name": "artsoft/yii2-art-seo",
@@ -915,12 +917,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-seo.git",
-                "reference": "b2aa24cb4d65eba710b13fff643410d25726e399"
+                "reference": "001190d93eeee13de0f847d2186088695fc0a3e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-seo/zipball/b2aa24cb4d65eba710b13fff643410d25726e399",
-                "reference": "b2aa24cb4d65eba710b13fff643410d25726e399",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-seo/zipball/001190d93eeee13de0f847d2186088695fc0a3e7",
+                "reference": "001190d93eeee13de0f847d2186088695fc0a3e7",
                 "shasum": ""
             },
             "require": {
@@ -947,7 +949,7 @@
                 }
             ],
             "description": "SEO Module For Art CMS",
-            "time": "2019-04-22T06:04:39+00:00"
+            "time": "2019-07-12T11:40:34+00:00"
         },
         {
             "name": "artsoft/yii2-art-settings",
@@ -955,12 +957,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-settings.git",
-                "reference": "f97793cfe4951003df12d243c45b9b1b5b772d16"
+                "reference": "1fb66d12a85536696d0a7ebef462aeb088bd565b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-settings/zipball/f97793cfe4951003df12d243c45b9b1b5b772d16",
-                "reference": "f97793cfe4951003df12d243c45b9b1b5b772d16",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-settings/zipball/1fb66d12a85536696d0a7ebef462aeb088bd565b",
+                "reference": "1fb66d12a85536696d0a7ebef462aeb088bd565b",
                 "shasum": ""
             },
             "require": {
@@ -987,7 +989,7 @@
                 }
             ],
             "description": "Settings Module For Art CMS",
-            "time": "2019-05-21T08:16:42+00:00"
+            "time": "2019-07-12T11:40:43+00:00"
         },
         {
             "name": "artsoft/yii2-art-slides",
@@ -995,12 +997,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-slides.git",
-                "reference": "b1ac177e25a3c353d8d6a5128f7548375892d78b"
+                "reference": "eadc5e0fa32773158874b8f308a0c7f56f2f0a1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-slides/zipball/b1ac177e25a3c353d8d6a5128f7548375892d78b",
-                "reference": "b1ac177e25a3c353d8d6a5128f7548375892d78b",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-slides/zipball/eadc5e0fa32773158874b8f308a0c7f56f2f0a1c",
+                "reference": "eadc5e0fa32773158874b8f308a0c7f56f2f0a1c",
                 "shasum": ""
             },
             "require": {
@@ -1027,7 +1029,7 @@
                 }
             ],
             "description": "HTML Slides Module For Art CMS",
-            "time": "2019-06-07T13:37:11+00:00"
+            "time": "2019-07-12T11:59:32+00:00"
         },
         {
             "name": "artsoft/yii2-art-translation",
@@ -1035,12 +1037,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-translation.git",
-                "reference": "32803b02ecb521b2305d78cc0599f9979a02b78c"
+                "reference": "b050759b4aff0b85b343981f141550b3b250fb3a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-translation/zipball/32803b02ecb521b2305d78cc0599f9979a02b78c",
-                "reference": "32803b02ecb521b2305d78cc0599f9979a02b78c",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-translation/zipball/b050759b4aff0b85b343981f141550b3b250fb3a",
+                "reference": "b050759b4aff0b85b343981f141550b3b250fb3a",
                 "shasum": ""
             },
             "require": {
@@ -1067,7 +1069,7 @@
                 }
             ],
             "description": "Translation Module For Art CMS",
-            "time": "2019-04-22T06:05:41+00:00"
+            "time": "2019-07-12T11:41:06+00:00"
         },
         {
             "name": "artsoft/yii2-art-user",
@@ -1075,12 +1077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/artmarkov/yii2-art-user.git",
-                "reference": "6f45f2403c800a7f3b53257a59886433e15a7a9d"
+                "reference": "a443359fff5fd7d5f645ff4b5de49f65cf46d0a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artmarkov/yii2-art-user/zipball/6f45f2403c800a7f3b53257a59886433e15a7a9d",
-                "reference": "6f45f2403c800a7f3b53257a59886433e15a7a9d",
+                "url": "https://api.github.com/repos/artmarkov/yii2-art-user/zipball/a443359fff5fd7d5f645ff4b5de49f65cf46d0a4",
+                "reference": "a443359fff5fd7d5f645ff4b5de49f65cf46d0a4",
                 "shasum": ""
             },
             "require": {
@@ -1111,7 +1113,7 @@
                 }
             ],
             "description": "User Module For Art CMS",
-            "time": "2019-05-15T11:32:44+00:00"
+            "time": "2019-07-12T11:41:33+00:00"
         },
         {
             "name": "artsoft/yii2-comments",
@@ -2181,23 +2183,23 @@
         },
         {
             "name": "ezyang/htmlpurifier",
-            "version": "v4.10.0",
+            "version": "v4.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezyang/htmlpurifier.git",
-                "reference": "d85d39da4576a6934b72480be6978fb10c860021"
+                "reference": "83ab08bc1af7d808a9e0fbf024f1c24bfd73c0a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/d85d39da4576a6934b72480be6978fb10c860021",
-                "reference": "d85d39da4576a6934b72480be6978fb10c860021",
+                "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/83ab08bc1af7d808a9e0fbf024f1c24bfd73c0a7",
+                "reference": "83ab08bc1af7d808a9e0fbf024f1c24bfd73c0a7",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.2"
             },
             "require-dev": {
-                "simpletest/simpletest": "^1.1"
+                "simpletest/simpletest": "dev-master#72de02a7b80c6bb8864ef9bf66d41d2f58f826bd"
             },
             "type": "library",
             "autoload": {
@@ -2210,7 +2212,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPL"
+                "LGPL-2.1-or-later"
             ],
             "authors": [
                 {
@@ -2224,7 +2226,7 @@
             "keywords": [
                 "html"
             ],
-            "time": "2018-02-23T01:58:20+00:00"
+            "time": "2019-07-14T18:58:38+00:00"
         },
         {
             "name": "fortawesome/font-awesome",
